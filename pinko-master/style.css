@@ -1,0 +1,46 @@
+
+body {
+	font-family: 'Inter'
+}
+
+footer {
+	background-color: #c8a4b1;
+	color: #ffffff;
+}
+
+.burger, .shop {
+	transition: 0.3s;
+}
+
+.burger:hover, .shop:hover {
+	transition: 0.3s;
+	color: #c8a4b1 !important;
+}
+
+.new {
+	font-family: 'IM FELL Great Primer SC';
+}
+
+.mail_h{
+	font-family: 'IM FELL Great Primer SC';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.3em;
+text-transform: uppercase;
+}
+.info>{
+	font-family: 'IM FELL Great Primer SC';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+}
+.p_info{
+	font-style: normal;
+font-weight: 200;
+font-size: 20px;
+line-height: 24px;
+text-align: right;
+text-transform: uppercase;
+}
